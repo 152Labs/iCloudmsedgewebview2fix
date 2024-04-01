@@ -1,4 +1,4 @@
-# iCloudwebview2fix (ENG/Google Translate)
+# iCloudmsedgewebview2fix (ENG/Google Translate)
 The msedgewebview2.exe error is a occurs when running iCloud under the Administrator account.
 
 To solve this problem, you must grant the Administrator account's execution permission to msedgewebview2.exe included in the icloud package.
